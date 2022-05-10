@@ -1,0 +1,12 @@
+{
+  "name": "utility-make-faster",
+  "version": "1.0.0",
+  "description": "We have some utilities to help developer faster",
+  "main": "index.js",
+  "author": "nguyentichduy",
+  "license": "MIT",
+  "dependencies": {
+    "@commitlint/cli": "^16.2.4",
+    "typescript": "^4.6.4"
+  }
+}
